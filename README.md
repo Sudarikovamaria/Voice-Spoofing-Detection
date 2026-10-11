@@ -8,4 +8,6 @@ This project investigates the detection of synthetic and converted speech using 
 
 **Dataset:** [ASVspoof 2019](https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset)
 
-A detailed description of the methodology, model architecture, experimental setup, and results is provided in the accompanying **[Technical Report](Report.pdf)**.
+**Code:** [Implementation](voice_spoofing_detection.ipynb)
+
+A detailed description of the methodology, model architecture, experimental setup, and results is provided in the accompanying [Technical Report](Report.pdf).
